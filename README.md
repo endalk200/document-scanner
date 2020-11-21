@@ -10,13 +10,13 @@ On my test dataset of 300 images, the program correctly detected the corners of 
 
 #### Here are some examples of images before and after scan:
 
-<img src="https://github.com/endalk200/document-scanner/blob/master/sample_images/cell_pic.jpg" height="450"> <img src="https://github.com/endalk200/doc_scanner/blob/master/output/cell_pic.jpg" height="450">
+<img src="https://github.com/endalk200/document-scanner/blob/main/sample_images/cell_pic.jpg" height="450"> <img src="https://github.com/endalk200/doc_scanner/blob/main/output/cell_pic.jpg" height="450">
 
-<img src="https://github.com/endalk200/document-scanner/blob/master/sample_images/receipt.jpg" height="450"> <img src="https://github.com/endalk200/document-scanner/blob/master/output/receipt.jpg" height="450">
+<img src="https://github.com/endalk200/document-scanner/blob/main/sample_images/receipt.jpg" height="450"> <img src="https://github.com/endalk200/document-scanner/blob/master/output/receipt.jpg" height="450">
 
-<img src="https://github.com/endalk200/document-scanner/blob/master/sample_images/math_cheat_sheet.JPG" height="450"> <img src="https://github.com/endalk200/document-scanner/blob/master/output/math_cheat_sheet.JPG" height="450">
+<img src="https://github.com/endalk200/document-scanner/blob/main/sample_images/math_cheat_sheet.JPG" height="450"> <img src="https://github.com/endalk200/document-scanner/blob/main/output/math_cheat_sheet.JPG" height="450">
 
-<img src="https://github.com/endalk200/document-scanner/blob/master/sample_images/dollar_bill.JPG" width="350"> <img src="https://github.com/endalk200/document-scanner/blob/master/output/dollar_bill.JPG" width="350">
+<img src="https://github.com/endalk200/document-scanner/blob/main/sample_images/dollar_bill.JPG" width="350"> <img src="https://github.com/endalk200/document-scanner/blob/main/output/dollar_bill.JPG" width="350">
 
 
 ### Usage

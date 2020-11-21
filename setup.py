@@ -10,7 +10,7 @@ long_description = (BASE_DIR / 'README.md').read_text(encoding='utf-8')
 
 setuptools.setup(
     name="document_scanner",
-    version="0.0.1",
+    version="0.1.9",
 
     author="Endalkachew Biruk",
     author_email="eb808826@gmail.com",
@@ -32,7 +32,7 @@ setuptools.setup(
     scripts=["./scan.py"],
 
     classifiers=[
-        "Development Status :: 2 - Pre-Alpha",
+        "Development Status :: 2 - Alpha",
 
         'Intended Audience :: Developers',
         'Intended Audience :: End Users/Desktop',
