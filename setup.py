@@ -32,7 +32,7 @@ setuptools.setup(
     scripts=["./scan.py"],
 
     classifiers=[
-        "Development Status :: 2 - Alpha",
+        "Development Status :: 3 - Alpha",
 
         'Intended Audience :: Developers',
         'Intended Audience :: End Users/Desktop',
