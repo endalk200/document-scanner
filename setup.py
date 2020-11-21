@@ -50,5 +50,5 @@ setuptools.setup(
 
         "Topic :: Utilities",
     ],
-    python_requires='>=3.5',
+    python_requires='>=3.4',
 )
