@@ -26,7 +26,7 @@ setuptools.setup(
         "numpy==1.18.5",
         "ocrd-fork-pylsd==0.0.3",
         "opencv-python==4.2.0.34",
-        "scipy==1.5.0"
+        "scipy==1.10.0"
     ],
 
     scripts=["./scan.py"],
