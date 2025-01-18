@@ -1,5 +1,5 @@
 matplotlib==3.2.2
 numpy==1.22.0
 ocrd-fork-pylsd==0.0.3
-opencv-python==4.2.0.34
+opencv-python==4.8.1.78
 scipy==1.10.0
